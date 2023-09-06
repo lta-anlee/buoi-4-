@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\bin\Debug\Bai7.exe.config
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\bin\Debug\Bai7.exe
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\bin\Debug\Bai7.pdb
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\obj\Debug\Bai7.exe
+E:\LuuDuLieuSinhVien\LeThanhAn_2001207166\CongNghe.Net_buoi4\Bai7\Bai7\obj\Debug\Bai7.pdb
